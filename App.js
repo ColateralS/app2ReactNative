@@ -101,8 +101,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   mapStyle: {
-    flex: 1,
-    width: width,
-    height: height,
+    width: Dimensions.get('window').width,
+    height: '100%'
   }
 });
