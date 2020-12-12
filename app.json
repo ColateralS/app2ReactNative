@@ -26,7 +26,7 @@
     "android": {
       "config":{
         "googleMaps":{
-          "apiKey": "AIzaSyAbIKDm0v0eMobXbiwa37VyO22bBk18XFw"
+          "apiKey": "InsertyourAPIKeyHere"
         }
       },
       "package": "com.colateralS.appreactnative",
