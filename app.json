@@ -2,7 +2,7 @@
   "expo": {
     "name": "app2ReactNative",
     "slug": "app2ReactNative",
-    "platforms": [
+    "platforms":[
       "ios",
       "android"
     ],
@@ -24,11 +24,12 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.colateralS.appreactnative",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      },
-      "package": "io.expo.client"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
