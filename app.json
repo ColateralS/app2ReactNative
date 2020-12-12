@@ -24,6 +24,11 @@
       "supportsTablet": true
     },
     "android": {
+      "config":{
+        "googleMaps":{
+          "apiKey": "AIzaSyAbIKDm0v0eMobXbiwa37VyO22bBk18XFw"
+        }
+      },
       "package": "com.colateralS.appreactnative",
       "versionCode": 1,
       "adaptiveIcon": {
